@@ -13,8 +13,12 @@
   "devDependencies": {
     "@commitlint/cli": "^17.6.3",
     "@commitlint/config-conventional": "^17.6.3",
+    "eslint": "^7.32.0 || ^8.2.0",
+    "eslint-config-airbnb-base": "latest",
+    "eslint-plugin-import": "^2.25.2",
     "husky": "^8.0.3",
     "lint-staged": "^13.2.2",
+    "prettier": "^2.8.8",
     "semantic-release": "^21.0.2"
   },
   "config": {
